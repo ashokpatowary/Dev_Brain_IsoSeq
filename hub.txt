@@ -1,5 +1,5 @@
-hub DevCortex
-shortLabel Developing Cortex
+hub Dev_Brain_IsoSeq
+shortLabel Dev_Brain_IsoSeq
 longLabel Full length Isoform sequencing from developing human cortex
 genomesFile genomes.txt
 email ashokpatowary@g.ucla.edu

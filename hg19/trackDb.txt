@@ -1,4 +1,4 @@
-track Dev_Brain_IsoSeq
+track Dev_Brain
 #container composite
 compositeTrack on
 shortLabel Dev_Brain_IsoSeq
@@ -11,7 +11,7 @@ type bigBed 12 +
   bigDataUrl FetalBrain_Bulk.bb
   shortLabel Dev_Brain_IsoSeq
   longLabel Dev_Brain_IsoSeq
-  parent Dev_Brain_IsoSeq
+  parent Dev_Brain
   type bigBed 12 +
   #descriptionUrl https://sciso.gandallab.org/
 

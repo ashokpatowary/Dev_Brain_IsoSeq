@@ -1,0 +1,18 @@
+track Dev_Brain_IsoSeq
+#container composite
+compositeTrack on
+shortLabel Dev_Brain_IsoSeq
+longLabel Full length Isoform sequencing from developing human cortex
+type bigBed 12 +
+#descriptionUrl https://sciso.gandallab.org/
+
+
+  track Dev_Brain_IsoSeq
+  bigDataUrl FetalBrain_Bulk.bb
+  shortLabel Dev_Brain_IsoSeq
+  longLabel Dev_Brain_IsoSeq
+  parent Dev_Brain_IsoSeq
+  type bigBed 12 +
+  #descriptionUrl https://sciso.gandallab.org/
+
+
